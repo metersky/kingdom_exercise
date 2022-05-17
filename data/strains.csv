@@ -1,0 +1,51 @@
+strain_id,food_type,food_name,food_production_source,food_retail_source
+ST000,beverage,"Good Kombucha",USA,Wegmans
+ST001,grain,"Yummy Bread",USA,"Whole Foods"
+ST002,yogurt,"Plain Yogurt",USA,Target
+ST003,cheese,"Tasty Cheese",USA,Safeway
+ST004,grain,"Whole Wheat Wonder",USA,Safeway
+ST005,grain,"The Rye Guy's Dry Rye",USA,"Whole Foods"
+ST006,grain,"Lotta Ciabatta",USA,"Whole Foods"
+ST007,yogurt,"Strawberry Yogurt",USA,Safeway
+ST008,beverage,"Good & Tasty Kombucha",USA,Target
+ST009,cheese,"Betta Chedda",USA,Target
+ST010,yogurt,"Old Style Greek Yogurt",USA,Safeway
+ST011,beverage,"Fun Kombucha",USA,Wegmans
+ST012,yogurt,"New Style Greek Yogurt",USA,Wegmans
+ST013,grain,"Naan Better Naan Bread",USA,Wegmans
+ST014,grain,"Sourdoughn't Let Me Down",USA,"Whole Foods"
+ST015,cheese,"Mary's Mozz",USA,Wegmans
+ST016,beverage,"The Actual Best Kombucha",USA,Wegmans
+ST017,beverage,"Pretty Good Kombucha",USA,Target
+ST018,cheese,"Hit the Road Pepperjack",USA,Target
+ST019,yogurt,"European Style Yogurt",USA,Safeway
+ST020,cheese,"The Muenster Mash",USA,Wegmans
+ST021,beverage,"Decent Kombucha",USA,Wegmans
+ST022,beverage,"Fair Kombucha",USA,"Whole Foods"
+ST023,grain,"California Sourdough",USA,"Whole Foods"
+ST024,grain,"Italian Sub Rolls",USA,Wegmans
+ST025,grain,"Sprouted Wheat",USA,Safeway
+ST026,beverage,"Karl's Kefir",USA,Safeway
+ST027,cheese,"Pete's Provolone",USA,Safeway
+ST028,cheese,"Patty's Provolone",USA,Wegmans
+ST029,yogurt,"Low Fat Yogurt",USA,Wegmans
+ST030,cheese,"Stacy's Swiss",USA,Target
+ST031,yogurt,"Blueberry Yogurt",USA,Target
+ST032,yogurt,"Non-fat Passion Fruit Yogurt",USA,Wegmans
+ST033,beverage,"Connie's Kefir",USA,Wegmans
+ST034,beverage,"Carly's Kefir",USA,Wegmans
+ST035,yogurt,"Goat's Milk Yogurt",USA,"Whole Foods"
+ST036,beverage,"Low Fat Kefir",USA,Wegmans
+ST037,beverage,"High Fat Kefir",USA,Safeway
+ST038,grain,"7 Grain Wheat",USA,Safeway
+ST039,grain,"3,000 Grain Wheat",USA,Wegmans
+ST040,cheese,"Parmesan, Just Parmesan",USA,Wegmans
+ST042,beverage,"Kool-Aid Kefir",USA,"Whole Foods"
+ST044,beverage,"Kool Kefir",USA,"Whole Foods"
+ST043,cheese,"Cheesy Cheddar",USA,Safeway
+ST045,yogurt,"French Style Yogurt",USA,Wegmans
+ST046,beverage,"Very Fancy Soda",USA,Target
+ST047,beverage,"Slightly Less Fancy Soda",USA,Target
+ST048,cheese,"Low Fat Cheddar",USA,Safeway
+ST049,yogurt,"Soy Yogurt",USA,Wegmans
+ST050,beverage,"Grand Kombucha",USA,Wegmans
